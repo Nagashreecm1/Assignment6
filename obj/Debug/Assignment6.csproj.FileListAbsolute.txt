@@ -1,0 +1,8 @@
+C:\mssql\Aug14Assign3\Assignment6\bin\Debug\Assignment6.exe.config
+C:\mssql\Aug14Assign3\Assignment6\bin\Debug\Assignment6.exe
+C:\mssql\Aug14Assign3\Assignment6\bin\Debug\Assignment6.pdb
+C:\mssql\Aug14Assign3\Assignment6\obj\Debug\Assignment6.csproj.AssemblyReference.cache
+C:\mssql\Aug14Assign3\Assignment6\obj\Debug\Assignment6.csproj.SuggestedBindingRedirects.cache
+C:\mssql\Aug14Assign3\Assignment6\obj\Debug\Assignment6.csproj.CoreCompileInputs.cache
+C:\mssql\Aug14Assign3\Assignment6\obj\Debug\Assignment6.exe
+C:\mssql\Aug14Assign3\Assignment6\obj\Debug\Assignment6.pdb
